@@ -20,5 +20,4 @@ Thanks for checking out this front-end coding challenge.
 
 ## Deploying my project
 
-- [Live Site URL](https://marwarabia.github.io/QR-code-component/)
-
+- [Live Site URL](https://order-summary-card-solution-ten.vercel.app/)
